@@ -1,0 +1,15 @@
+.font{
+    font-size: 20px;
+    color:green;
+}
+.header{
+    font-size:30px;
+    color:red;
+}
+.router-link-active{
+    background-color:#ccc;
+    color:#fff;
+    border-radius:5px;
+    display:inline-block;
+    text-decoration: none;
+}
