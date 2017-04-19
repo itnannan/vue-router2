@@ -34,6 +34,7 @@ export default {
 </script>
 
 <style>
+ @import './assets/css/bootstrap.css';
   @import './assets/css/font.css';
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
